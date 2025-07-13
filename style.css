@@ -73,6 +73,10 @@ background-color: white;
   color: #002B5B;
 }
 
+
+
+
+
 .button:hover{background-color: #00BCD4;
 				font-size: 15px;
 				min-width: 125px;
@@ -87,7 +91,10 @@ background-color: white;
 
 }
 
-
+.S2{margin-left:2%;
+  font-size:0.9em;
+  color: #D61C4E;
+}
 
 
 
